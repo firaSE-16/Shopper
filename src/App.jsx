@@ -9,7 +9,9 @@ import Footer from "./Components/Footer.jsx/Footer";
 function App() {
  
 
+ 
   return (
+   
     <div className="w-full h-full">
       <BrowserRouter>
         <Navbar />
